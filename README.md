@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, I'm Manu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**manusingh5oct/manusingh5oct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a second year undergrad at NIT Bhopal, pursuing Electrical Engineering
+* Currently I'm working on my Frontend web development skills
+* I also enjoy Problem solving and Competitive programming
 
-Here are some ideas to get you started:
+### To know more about me :smile:
+* [LinkedIn](https://www.linkedin.com/in/manu-singh-366062205/)
+* [Codeforces](https://codeforces.com/profile/manusingh5oct)
+* [Codechef](https://www.codechef.com/users/manusingh5oct)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out! ☝️
+
+
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manusingh5oct&show_icons=true&theme=buefy)](https://github.com/manusingh5oct/github-readme-stats)
